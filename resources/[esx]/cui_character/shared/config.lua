@@ -4,7 +4,7 @@ Config = {}
     This enables/disables the post-loading animation where camera starts in the clouds, 
     above the city like when switching characters in GTA V Story Mode.
 --]]
-Config.EnterCityAnimation = true
+Config.EnterCityAnimation = false
 
 -- Setting these to false will enable all colors available in the game.
 Config.UseNaturalHairColors = true
